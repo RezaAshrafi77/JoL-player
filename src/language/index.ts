@@ -30,7 +30,7 @@ export const zhJson: langType = {
   screenshotsFailText: '截图加载失败，在点击下',
 };
 export const enJson: langType = {
-  multiple: 'multiple',
+  multiple: 'speed',
   closeLights: 'lights',
   loop: 'loops',
   screenshots: 'screenshots',
